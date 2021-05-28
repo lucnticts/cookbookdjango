@@ -1,0 +1,2 @@
+# cookbookdjango
+cookbook for django
